@@ -1,0 +1,37 @@
+﻿Position;Name;Function;Ubicación
+AM; Attacking Midfielder;Ataque;Centro
+AMC; Attacking Midfielder Center;Ataque;Centro
+AMF; Attacking Midfielder;Ataque;Centro
+AML; Attacking Midfielder Left;Ataque;Izquierda
+AMR; Attacking Midfielder Right;Ataque;Derecha
+CAM; Central Attacking Midfielder;Central;Centro
+CB; Center Back;Central;Centro
+CDM; Central Defensive Midfielder;Central;Centro
+CF; Center Forward;Central;Centro
+CH; Center Half;Central;Centro
+CM; Central Midfield;Central;Centro
+CMF; Central Midfielder;Central;Centro
+DM; Defensive Midfielder;Defensa;Movil
+GK; Goalkeeper;Arquero;Centro
+LB; Left Back;Defensa;Izquierda
+LCB; Left Center Back;Defensa;Izquierda
+LF; Left Forward;Central;Izquierda
+LH; Left Half;Central;Izquierda
+LM; Left Midfielder;Central;Izquierda
+LS; Left Striker;Central;Izquierda
+LW; Left Winger;Central;Izquierda
+LWB; Left Wing Back;Defensa;Izquierda
+M; Midfielder;Central;Centro
+OB; Outside Backs;Defensa;Movil
+RB; Right Back;Defensa;Derecha
+RCB; Right Center Back;Defensa;Derecha
+RF; Right Forward;Ataque;Derecha
+RM; Right Midfielder;Central;Derecha
+RS; Right Striker;Ataque;Derecha
+RW; Right Winger;Central;Derecha
+RWB; Right Wing Back;Defensa;Derecha
+SS; Second Striker;Ataque;Movil
+ST; Striker;Ataque;Movil
+SW; Sweeper;Defensa;Movil
+WB; Wing Back;Defensa;Movil
+WF; Wing Forward;Ataque;Movil
